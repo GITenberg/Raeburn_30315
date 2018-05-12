@@ -1,0 +1,28 @@
+_repo: Raeburn_30315
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 30315-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Caw, J. L. (James Lewis), Sir
+    alias: Caw, James Lewis, Sir
+    birthdate: 1864
+    deathdate: 1950
+    gutenberg_agent_id: '34516'
+    url: http://www.gutenberg.org/2009/agents/34516
+description: ''
+gutenberg_bookshelf: Masterpieces in Colour
+gutenberg_issued: '2009-10-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30315'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'ND'
+- !lcsh 'Raeburn, Henry, Sir, 1756-1823'
+title: Raeburn
+url: http://www.gutenberg.org/ebooks/30315
